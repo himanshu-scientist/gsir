@@ -1,5 +1,7 @@
 """Lets create kaggle ML project  ---  kaggle.com/c/titanic   ---  """
 """Problem Statement- Predict survival on Titanic"""
+
+# basic 4 steps. 1) Explanatory data analysis 2) Feature engineering 3) Cross validation 4) hyper parameter tunning.
 import pandas as pd
 import seaborn as sns
 import numpy as np
